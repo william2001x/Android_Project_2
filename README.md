@@ -2,7 +2,7 @@
 
 Submitted by: **William Myles **
 
-**Name of your app** is a wishlist app that helps the user keep track of what they want to buy.
+**Wishlist** is a wishlist app that helps the user keep track of what they want to buy.
 
 Time spent: **3** hours spent in total
 
@@ -15,13 +15,13 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x] Wishlist app is 🎨 **customized** 🎨
-- [x] User can delete an item by long pressing on the item
-- [x] User can open an item's URL by clicking on the item
+- [ ] Wishlist app is 🎨 **customized** 🎨
+- [ ] User can delete an item by long pressing on the item
+- [ ] User can open an item's URL by clicking on the item
 
 The following **additional** features are implemented:
 
-* [x] List anything else that you can get done to improve the app functionality!
+* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
